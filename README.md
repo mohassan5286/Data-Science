@@ -3,5 +3,5 @@ This repository encompasses a Data Science Project Notebooks and Certifications 
 
 <br>
 
-## SHAI Task
-Salaries Dataset Notebook
+## SHAI Task (for acceptance in training)
+Performing Data Analysis for the Salaries Dataset
